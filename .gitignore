@@ -1,0 +1,7 @@
+# Dependencies
+node_modules/
+
+# System files
+.DS_Store
+desktop.ini
+Thumbs.db
